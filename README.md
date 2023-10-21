@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/banner.png" alt="Banner Image" width="100%">
+<img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/banner.png" alt="Banner Image" width="100%" style="border-radius: 10px;">
 
 # About Me
 
