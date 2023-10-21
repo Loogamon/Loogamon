@@ -12,7 +12,7 @@ Some, but not all, of the programming languages I'm familar with.
 * <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/javascript.svg" alt="JavaScript" height="16px"> **JavaScript:** Proficient usage for front-end web pages, but also have familarity with using it for **MERN** servers. 
 * <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/c.svg" alt="C" height="16px"> **C:** Main language for desktop projects, mostly writes for the usage of the Visual Studio 2010 compiler.
 * <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/cpp.svg" alt="C++" height="16px"> **C++:** Proficient, if not making use of modern C++ features. Mostly writes for the Visual Studio 2010 compiler.
-* <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/c_sharp.svg" alt="C#" height="16px"> **C#:** Proficient. Can't say much of it, aside from creating several projects within C#.
+* <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/c_sharp.svg" alt="C#" height="16px"> **C#:** Proficient. Can't say much of it, aside from having a history creating several projects within C#.
 * <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/java.svg" alt="Java" height="16px"> **Java:** Have familarity building web applications with the **Java Spring** framework. I don't particularly like it, however.
 
 Planning to learn about PHP within late 2023 or early 2024.
@@ -26,5 +26,5 @@ Planning to learn about PHP within late 2023 or early 2024.
 
 ## Contact Info
 
-* <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/linkedin.svg" alt="LinkedIn" height="16px"> **LinkedIn:** [Zachary Tabikh](https://www.linkedin.com/in/zachary-tabikh-8745b4192/) (Horrible, needs undusting.)
+* <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/linkedin.svg" alt="LinkedIn" height="16px"> **LinkedIn:** [Zachary Tabikh](https://www.linkedin.com/in/zachary-tabikh-8745b4192/) (Horrible, effectively unused; needs undusting.)
 * <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/discord.svg" alt="Discord" height="16px"> **Discord:** donutyoshi
