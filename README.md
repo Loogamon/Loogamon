@@ -19,12 +19,12 @@ Planning to learn about PHP within late 2023 or early 2024.
 
 ## Project Highlights
 
-* **[V-Pet Guide:](https://)** Interactive front-end web guide for Virtual Pet devices, mostly aimed for the [Digimon Pendulum Z](https://digimon.net/z-pendulum/) series. Parses data from a JSON file into a nice pretty format.
-* **Dank Dungeons:** A simple dungeon game written in Python, then ported to C# and C++!
-* **[JSMN Reader:](https://)** An extension of the JSON parser [JSMN](https://) for C, made into a library for advanced use in JSON reading.
-* **[JSWR Writer:](https://)** A JSON writer library for C. This is not an extension of jsmn.
+* **[V-Pet Guide:](https://loogamon.github.io/evo_tree/)** Interactive front-end web guide for Virtual Pet devices, mostly aimed for the [Digimon Pendulum Z](https://digimon.net/z-pendulum/) series. Parses data from a JSON file into a nice pretty format.
+* **[Dank Dungeons:](https://github.com/Loogamon/dankdungeons)** A simple dungeon game written in Python, then ported to C# and C++!
+* **[JSMN Reader:](https://github.com/Loogamon/jsmnreader)** An extension of the JSON parser [JSMN](https://github.com/zserge/jsmn) for C, made into a library for advanced use in JSON reading.
+* **[JSWR Writer:](https://github.com/Loogamon/jswrwriter)** A JSON writer library for C. This is not an extension of jsmn.
 
 ## Contact Info
 
-* <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/linkedin.svg" alt="LinkedIn" height="16px"> **LinkedIn:** [Zachary Tabikh](https://www.linkedin.com/in/zachary-tabikh-8745b4192/)
+* <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/linkedin.svg" alt="LinkedIn" height="16px"> **LinkedIn:** [Zachary Tabikh](https://www.linkedin.com/in/zachary-tabikh-8745b4192/) (Horrible, needs undusting.)
 * <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/discord.svg" alt="Discord" height="16px"> **Discord:** donutyoshi
