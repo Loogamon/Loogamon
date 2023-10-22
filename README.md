@@ -19,7 +19,7 @@ Planning to learn about PHP within late 2023 or early 2024.
 
 ## Project Highlights
 
-* **[V-Pet Guide:](https://loogamon.github.io/evo_tree/)** Interactive front-end web guide for Virtual Pet devices, mostly aimed for the [Digimon Pendulum Z](https://digimon.net/z-pendulum/) series. Parses data from [a JSON file](https://github.com/Loogamon/Loogamon.github.io/blob/main/json/wind_guardians_z.json) into a nice pretty format.
+* **[V-Pet Guide:](https://github.com/Loogamon/Loogamon.github.io/tree/main/evo_tree)** An [interactive front-end](https://loogamon.github.io/evo_tree/) web guide for Virtual Pet devices, mostly aimed for the [Digimon Pendulum Z](https://digimon.net/z-pendulum/) series. Parses data from [a JSON file](https://github.com/Loogamon/Loogamon.github.io/blob/main/json/wind_guardians_z.json) into a nice pretty format.
 * **[Dank Dungeons:](https://github.com/Loogamon/dankdungeons)** A simple dungeon game written in Python, then ported to C# and C++!
 * **[JSMN Reader:](https://github.com/Loogamon/jsmnreader)** An extension of the JSON parser [JSMN](https://github.com/zserge/jsmn) for C, made into a library for advanced use in JSON reading.
 * **[JSWR Writer:](https://github.com/Loogamon/jswrwriter)** A JSON writer library for C. This is not an extension of jsmn.
