@@ -26,5 +26,5 @@ Planning to learn about PHP within late 2023 or early 2024.
 
 ## Contact Info
 
-* <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/linkedin.svg" alt="LinkedIn" height="16px"> **LinkedIn:** [Zachary Tabikh](https://www.linkedin.com/in/zachary-tabikh-8745b4192/) (Horrible, effectively unused; needs undusting.)
+* <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/linkedin.svg" alt="LinkedIn" height="16px"> **LinkedIn:** [Zachary Tabikh](https://www.linkedin.com/in/zachary-tabikh-8745b4192/)
 * <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/discord.svg" alt="Discord" height="16px"> **Discord:** donutyoshi
