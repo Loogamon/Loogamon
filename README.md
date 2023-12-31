@@ -15,7 +15,7 @@ Some, but not all, of the programming languages I'm familar with.
 * <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/c_sharp.svg" alt="C#" height="16px"> **C#:** Proficient. Can't say much of it, aside from having a history creating several projects within C#.
 * <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/java.svg" alt="Java" height="16px"> **Java:** Have familarity building web applications with the **Java Spring** framework. I don't particularly like it, however.
 
-Planning to learn about PHP within late 2023 or early 2024.
+Planning to learn about PHP within early 2024.
 
 ## Project Highlights
 
