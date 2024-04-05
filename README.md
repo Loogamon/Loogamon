@@ -8,7 +8,7 @@ Software Developer for both web-based and desktop applications, but primarily fo
 
 Some, but not all, of the programming languages I'm familar with.
 
-* <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/python.svg" alt="Python" height="16px"> **Python:** Current main language for full-stack projects, with the use of the **Flask** web framework.
+* <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/python.svg" alt="Python" height="16px"> **Python:** Current main language for full-stack projects, with the use of the **Flask** and **Django** web framework.
 * <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/javascript.svg" alt="JavaScript" height="16px"> **JavaScript:** Proficient usage for front-end web pages, but also have familarity with using it for **MERN** servers. 
 * <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/c.svg" alt="C" height="16px"> **C:** Main language for desktop projects, mostly writes for the usage of the Visual Studio 2010 compiler.
 * <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/cpp.svg" alt="C++" height="16px"> **C++:** Proficient, if not making use of modern C++ features. Mostly writes for the Visual Studio 2010 compiler.
