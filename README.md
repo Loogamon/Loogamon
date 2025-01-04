@@ -4,19 +4,6 @@
 
 Software Developer for both web-based and desktop applications, but primarily for developing full-stack web applications. Is in interest to learn of developing for varying technologies, both modern and retro.
 
-## Programming Languages
-
-Some, but not all, of the programming languages I'm familar with.
-
-* <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/python.svg" alt="Python" height="16px"> **Python:** Current main language for full-stack projects, with the use of the **Flask** and **Django** web framework.
-* <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/javascript.svg" alt="JavaScript" height="16px"> **JavaScript:** Proficient usage for front-end web pages, but also have familarity with using it for **MERN** servers. 
-* <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/c.svg" alt="C" height="16px"> **C:** Main language for desktop projects, mostly writes for the usage of the Visual Studio 2010 compiler.
-* <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/cpp.svg" alt="C++" height="16px"> **C++:** Proficient, if not making use of modern C++ features. Mostly writes for the Visual Studio 2010 compiler.
-* <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/c_sharp.svg" alt="C#" height="16px"> **C#:** Proficient. Can't say much of it, aside from having a history creating several projects within C#.
-* <img src="https://raw.githubusercontent.com/Loogamon/Loogamon/main/img/java.svg" alt="Java" height="16px"> **Java:** Have familarity building web applications with the **Java Spring** framework. I don't particularly like it, however.
-
-Planning to learn about PHP within early 2024.
-
 ## Project Highlights
 
 * **[Buyable:](https://github.com/Loogamon/buyable)** A basic full-stack store application written for Python's Flask web framework. It has functionality for searching and filtering out categories for items, and the ability to add multiple items to the shopping cart. This project was more of a demonstration of a full-stack shop interface and it isn’t designed properly to be used as an actual store application, as there’s no API integration for payments. You can view [the AWS deployment here](http://18.222.232.245/).
